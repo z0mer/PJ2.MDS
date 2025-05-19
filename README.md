@@ -1,3 +1,3 @@
-# PJ2.MDS
+# PJ2.LPQ
 
 Projeto disponibilizado na Wiki 😊
